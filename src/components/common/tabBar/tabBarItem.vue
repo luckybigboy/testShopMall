@@ -17,7 +17,7 @@
       path: String,
       isActivedColor: {
         type: String,
-        default: '#1296db'
+        default: '#ff8198'
       },
       tipScore: {
         type: Number,
@@ -49,6 +49,7 @@
     flex: 1;
     text-align: center;
     cursor: pointer;
+    -webkit-tap-highlight-color: rgba(240,240,240,0.7);
   }
 
   .tab_bar_logo {

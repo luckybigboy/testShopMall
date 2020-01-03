@@ -1,1 +1,5 @@
-@import '~assets/css/normalize.css'
+@import '~assets/css/normalize.css';
+
+:root {
+    --navbar_bgColor: #ff8198;
+}

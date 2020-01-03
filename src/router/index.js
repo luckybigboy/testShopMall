@@ -31,7 +31,14 @@ const routes = [
     {
         path: '/me',
         name: 'me',
-        component: Me
+        component: Me,
+        meta: {
+            requireAuth: true
+        }
+    },
+    {
+       path: '*',
+       redirect: '/home' 
     }
 ]
 
