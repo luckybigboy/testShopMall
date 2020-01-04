@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <template>
     <div id="home">
         <navBar class="nar_Bar">
@@ -42,3 +43,5 @@
         box-shadow: 0 4px 3px rgba(100, 100, 100, .1);
     }
 </style>
+=======
+>>>>>>> parent of 656a2d3... 第二次提交，修改去除公共样式等
