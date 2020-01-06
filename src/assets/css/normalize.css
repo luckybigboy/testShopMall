@@ -1,17 +1,20 @@
-<<<<<<< HEAD
-html,body {
-    padding: 0;
-    margin: 0;
-}
-::selection {
-    background:rgb(241, 188, 89); color: #333;
-}
-::-moz-selection {
-    background:rgb(241, 188, 89); color:#333;
-}
-::-webkit-selection {
-    background:rgb(241, 188, 89); color:#333;
+html,
+body {
+  padding: 0;
+  margin: 0;
 }
 
-=======
->>>>>>> parent of 656a2d3... 第二次提交，修改去除公共样式等
+::selection {
+  background: rgb(241, 188, 89);
+  color: #333;
+}
+
+::-moz-selection {
+  background: rgb(241, 188, 89);
+  color: #333;
+}
+
+::-webkit-selection {
+  background: rgb(241, 188, 89);
+  color: #333;
+}
